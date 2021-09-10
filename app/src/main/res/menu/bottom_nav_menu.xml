@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/ic_round_home_24"
+        android:title="Home"/>
+
+    <item
+        android:id="@+id/chat"
+        android:icon="@drawable/ic_chat"
+        android:title="Chat" />
+
+    <item
+        android:id="@+id/video"
+        android:icon="@drawable/ic_video_library_24px"
+        android:title="Highlight"/>
+
+    <item
+        android:id="@+id/match"
+        android:icon="@drawable/ic_stadium"
+        android:title="Match"/>
+
+    <item
+        android:id="@+id/shop"
+        android:icon="@drawable/ic_buy"
+        android:title="Marchant"/>
+</menu>
