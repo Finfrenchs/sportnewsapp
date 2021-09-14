@@ -21,18 +21,15 @@
         android:id="@+id/countiner"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:background="@drawable/bg_chat_default"
-        android:layout_below="@+id/toolbar"/>
+        android:layout_below="@+id/toolbar"
+        android:background="@drawable/bg_chat_default" />
 
     <com.google.android.material.bottomnavigation.BottomNavigationView
         android:id="@+id/bottom_nav_view"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
-        android:background="?android:attr/windowBackground"
-        app:itemIconTint="#FFFFFF"
-        app:itemTextColor="#FFFFFF"
-        app:itemBackground="@color/item_color_background"
+        app:itemBackground="@color/icon"
         app:menu="@menu/bottom_nav_menu"/>
 
 </RelativeLayout>

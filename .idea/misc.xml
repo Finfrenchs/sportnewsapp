@@ -3,10 +3,18 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Important Data/Materi Android Kotlin (Dicoding)/Belajar Membuat Aplikasi Android untuk Pemula/Project/Footballnews/app/src/main/res/drawable/bg_bottom_nav_view.xml" value="0.26614583333333336" />
+        <entry key="..\:/Important Data/Materi Android Kotlin (Dicoding)/Belajar Membuat Aplikasi Android untuk Pemula/Project/Footballnews/app/src/main/res/drawable/bg_chat_default.xml" value="0.26614583333333336" />
+        <entry key="..\:/Important Data/Materi Android Kotlin (Dicoding)/Belajar Membuat Aplikasi Android untuk Pemula/Project/Footballnews/app/src/main/res/drawable/bg_indicator.xml" value="0.26614583333333336" />
+        <entry key="..\:/Important Data/Materi Android Kotlin (Dicoding)/Belajar Membuat Aplikasi Android untuk Pemula/Project/Footballnews/app/src/main/res/drawable/ic_chat.xml" value="0.26614583333333336" />
+        <entry key="..\:/Important Data/Materi Android Kotlin (Dicoding)/Belajar Membuat Aplikasi Android untuk Pemula/Project/Footballnews/app/src/main/res/drawable/ic_round_home_24.xml" value="0.26614583333333336" />
+        <entry key="..\:/Important Data/Materi Android Kotlin (Dicoding)/Belajar Membuat Aplikasi Android untuk Pemula/Project/Footballnews/app/src/main/res/drawable/rectangle_bg.xml" value="0.26614583333333336" />
         <entry key="..\:/Important Data/Materi Android Kotlin (Dicoding)/Belajar Membuat Aplikasi Android untuk Pemula/Project/Footballnews/app/src/main/res/layout/activity_main.xml" value="0.12708333333333333" />
         <entry key="..\:/Important Data/Materi Android Kotlin (Dicoding)/Belajar Membuat Aplikasi Android untuk Pemula/Project/Footballnews/app/src/main/res/layout/fragment_home.xml" value="0.18931159420289856" />
         <entry key="..\:/Important Data/Materi Android Kotlin (Dicoding)/Belajar Membuat Aplikasi Android untuk Pemula/Project/Footballnews/app/src/main/res/layout/fragment_slider_item.xml" value="0.18931159420289856" />
-        <entry key="..\:/Important Data/Materi Android Kotlin (Dicoding)/Belajar Membuat Aplikasi Android untuk Pemula/Project/Footballnews/app/src/main/res/layout/item_list_home.xml" value="0.18931159420289856" />
+        <entry key="..\:/Important Data/Materi Android Kotlin (Dicoding)/Belajar Membuat Aplikasi Android untuk Pemula/Project/Footballnews/app/src/main/res/layout/item_list_home.xml" value="0.4" />
+        <entry key="..\:/Important Data/Materi Android Kotlin (Dicoding)/Belajar Membuat Aplikasi Android untuk Pemula/Project/Footballnews/app/src/main/res/menu/bottom_nav_menu.xml" value="0.25" />
+        <entry key="..\:/Important Data/Materi Android Kotlin (Dicoding)/Belajar Membuat Aplikasi Android untuk Pemula/Project/Footballnews/app/src/main/res/menu/main_menu.xml" value="0.25" />
       </map>
     </option>
   </component>
