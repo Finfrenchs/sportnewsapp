@@ -1,4 +1,4 @@
-#SPORT NEWS APP
+SPORT NEWS APP
 ==
 Aplikasi ini digunakan untuk submission course di dicoding.
 --
