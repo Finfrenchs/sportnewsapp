@@ -6,4 +6,5 @@
     <color name="icon">#FFFFFF</color>
     <color name="item_color_background">#0C0B33</color>
     <color name="toolbar_color">#C99108</color>
+    <color name="transparent">#99000000</color>
 </resources>

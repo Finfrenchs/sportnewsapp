@@ -30,6 +30,8 @@
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
         app:itemBackground="@color/icon"
-        app:menu="@menu/bottom_nav_menu"/>
+        app:menu="@menu/bottom_nav_menu"
+        android:elevation="8dp"
+        android:background="@drawable/bg_shadow_bottom_nav_bar"/>
 
 </RelativeLayout>
